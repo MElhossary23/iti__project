@@ -1,3 +1,4 @@
+/* ================ PRICING ================= */
 .pricing{
     padding: 6rem 6%;
     background: linear-gradient(135deg, #e9edff, #ffffff);
@@ -40,7 +41,7 @@
 }
 
 .pricing .title{
-    font-size: 0.85rem;
+    font-size: 1.2rem; 
     margin-bottom: 1rem;
     color: var(--black);
 }
@@ -51,17 +52,17 @@
 }
 
 .pricing .price .currency{
-    font-size: 1.2rem;
+    font-size: 1.8rem; 
 }
 
 .pricing .price .amount{
-    font-size: 1.8rem;
+    font-size: 2.8rem; 
     font-weight: 700;
 }
 
 .pricing ul li{
     margin: 1.8rem auto;
-    font-size: 0.6rem;
+    font-size: 0.95rem; 
     color: var(--light-color);
     text-align: left;
 }
@@ -110,7 +111,7 @@
 .blog .link{
     display: inline-block;
     margin-bottom: 1rem;
-    font-size: 0.5rem;
+    font-size: 0.75rem; 
     background: var(--primary);
     color: var(--white);
     padding: .5rem 1.2rem;
@@ -121,18 +122,18 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 1rem;
-    font-size: 0.5rem;
+    font-size: 0.75rem; 
     color: var(--light-color);
 }
 
 .blog h3{
-    font-size: 0.8rem;
+    font-size: 1.2rem; 
     margin-bottom: 0.6rem;
     color: var(--black);
 }
 
 .blog p{
-    font-size: 0.55rem;
+    font-size: 0.9rem; 
     line-height: 1.8;
     color: var(--light-color);
 }
